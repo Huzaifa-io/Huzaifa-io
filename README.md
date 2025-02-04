@@ -4,3 +4,8 @@
 - 💞️ I’m looking to collaborate on website
 - 📫 Reach me at  2008huzaifakhi@gmail.com
 - 🚀 Check out my portfolio: https://huzaifa-devhub.vercel.app  
+- 💻 Languages: **Html ,Css JavaScript,**
+- 🌐 Frontend: **ReactJs, HTML, CSS, TailwindCSS, Bootstrap, Material UI, Antdesign **
+- 🛠️ Backend: **Node.js, Express**
+- 📡 Databases: **MongoDB, Firebase(Firestore)**
+- 🔍 Tools & Others: ** GitHub, Postman**
