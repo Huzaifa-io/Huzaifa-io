@@ -1,43 +1,87 @@
-👋 Hey there! I'm Muhammad Huzaifa<br>
-🚀 Passionate Web Developer | Frontend & Backend Enthusiast<br>
-<br>
-💡 I specialize in building dynamic and responsive web applications using modern web technologies. I love crafting seamless user experiences and optimizing website performance.<br>
-<br>
-👀 What I'm Interested In<br>
-🔹 Web Development & UI/UX Design<br>
-🔹 JavaScript Frameworks & Libraries<br>
-🔹 Building Scalable Web Applications<br>
-🔹 Open Source Contributions<br>
-<br>
-🌱 What I'm Learning<br>
-I'm constantly expanding my skills in full-stack development, focusing on performance optimization, accessibility, and modern frameworks.<br>
-<br>
-💞️ Looking to Collaborate On<br>
-💻 Exciting Web Development Projects<br>
-🌐 Innovative React & Node.js Applications<br>
-📡 Real-time & Scalable MERN Stack Solutions<br>
-<br>
-📫 Get in Touch<br>
-📧 Email: 2008huzaifakhi@gmail.com<br>
-🌍 Portfolio: https://huzaifa-devhub.vercel.app<br>
-💼 LinkedIn: https://www.linkedin.com/in/muhammad-huzaifa-968a3b321/<br>
+<h1 align="center">👋 Hey there! I'm Muhammad Huzaifa</h1>
+<h3 align="center">🚀 Passionate Web Developer | Frontend & Backend Developer</h3>
 
-💻 Tech Stack & Tools<br>
-🚀 Frontend Development<br>
-✔️ React.js<br>
-✔️ HTML5, CSS3, JavaScript (ES6+)<br>
-✔️ TailwindCSS, Bootstrap, Material UI, Ant Design<br>
-<br>
-🛠️ Backend Development<br>
-✔️ Node.js, Express.js<br>
-✔️ RESTful APIs, Authentication (JWT, Firebase Auth)<br>
+---
 
-📡 Databases & Cloud Services<br>
-✔️ MongoDB, Firebase (Firestore & Realtime DB)<br>
-<br>
-🛠️ Tools & Dev Workflow<br>
-✔️ Git & GitHub, Postman, VS Code, Vercel
-✔️ Web Performance Optimization<br>
-<br>
-📊 GitHub Stats & Activity<br>
-✨ Check out my latest contributions and repositories on GitHub!<br>
+## 💡 About Me
+I specialize in building **dynamic and responsive web applications** using modern technologies. My passion lies in creating seamless **user experiences** and optimizing **website performance**.
+
+### 👀 Interests
+🔹 **Web Development & UI/UX Design**  
+🔹 **JavaScript Frameworks & Libraries**  
+🔹 **Building Scalable Web Applications**  
+🔹 **Open Source Contributions**  
+
+### 🌱 Currently Learning
+I'm constantly expanding my **full-stack development** skills, focusing on **performance optimization**, **accessibility**, and modern **frameworks**.
+
+---
+
+## 💻 Tech Stack & Tools  
+
+### 🚀 Frontend Development  
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=mui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ant%20Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white" />
+</p>
+
+### 🛠️ Backend Development  
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20API-FF6F00?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+</p>
+
+### 📡 Databases & Cloud Services  
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+</p>
+
+### 🛠️ Tools & Dev Workflow  
+<p>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</p>
+
+---
+
+## 💞️ Looking to Collaborate On  
+💻 **Exciting Web Development Projects**  
+🌐 **Innovative React & Node.js Applications**  
+📡 **Real-time & Scalable MERN Stack Solutions**  
+
+---
+
+## 📊 GitHub Stats & Activity  
+
+🔥 **Current Streak**  
+![GitHub Streak](https://streak-stats.demolab.com/?user=Muhammad-Huzaifa-786&theme=react&hide_border=true)  
+
+📈 **Progress & Contributions**  
+![GitHub Progress Bar](https://github-readme-stats.vercel.app/api?username=Muhammad-Huzaifa-786&show_icons=true&theme=react&hide_border=true)  
+
+📊 **Top Languages Used**  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Huzaifa-786&layout=compact&theme=react&hide_border=true)  
+
+---
+
+## 📫 Get in Touch  
+📧 **Email:** [2008huzaifakhi@gmail.com](mailto:2008huzaifakhi@gmail.com)  
+🌍 **Portfolio:** [huzaifa-devhub.vercel.app](https://huzaifa-devhub.vercel.app)  
+💼 **LinkedIn:** [Muhammad Huzaifa](https://www.linkedin.com/in/muhammad-huzaifa-968a3b321/)  
+📂 **GitHub:** [Muhammad-Huzaifa-786](https://github.com/Muhammad-Huzaifa-786)  
+
+---
+
+💙 **Let's Build Something Awesome Together!** 🚀  
