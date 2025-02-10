@@ -72,7 +72,7 @@ I'm constantly expanding my **full-stack development** skills, focusing on **per
 ![GitHub Progress Bar](https://github-readme-stats.vercel.app/api?username=Muhammad-Huzaifa1234&show_icons=true&theme=react&hide_border=true)  
 
 📊 **Top Languages Used**  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Huzaifa-1234&layout=compact&theme=react&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Huzaifa1234&layout=compact&theme=react&hide_border=true)  
 
 ---
 
