@@ -66,13 +66,13 @@ I'm constantly expanding my **full-stack development** skills, focusing on **per
 ## 📊 GitHub Stats & Activity  
 
 🔥 **Current Streak**  
-![GitHub Streak](https://streak-stats.demolab.com/?user=Muhammad-Huzaifa1234&theme=react&hide_border=true)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=Huzaifa-io&theme=react&hide_border=true)  
 
 📈 **Progress & Contributions**  
-![GitHub Progress Bar](https://github-readme-stats.vercel.app/api?username=Muhammad-Huzaifa1234&show_icons=true&theme=react&hide_border=true)  
+![GitHub Progress Bar](https://github-readme-stats.vercel.app/api?username=Huzaifa-io&show_icons=true&theme=react&hide_border=true)  
 
 📊 **Top Languages Used**  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Huzaifa1234&layout=compact&theme=react&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Huzaifa-io&layout=compact&theme=react&hide_border=true)  
 
 ---
 
@@ -80,7 +80,7 @@ I'm constantly expanding my **full-stack development** skills, focusing on **per
 📧 **Email:** [2008huzaifakhi@gmail.com](mailto:2008huzaifakhi@gmail.com)  
 🌍 **Portfolio:** [huzaifa-devhub.vercel.app](https://huzaifa-devhub.vercel.app)  
 💼 **LinkedIn:** [Muhammad Huzaifa](https://www.linkedin.com/in/muhammad-huzaifa-968a3b321/)  
-📂 **GitHub:** [Muhammad-Huzaifa1234](https://github.com/Muhammad-Huzaifa1234)  
+📂 **GitHub:** [Huzaifa-io](https://github.com/Huzaifa-io)  
 
 ---
 
