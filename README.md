@@ -69,10 +69,13 @@ I'm constantly expanding my **full-stack development** skills, focusing on **per
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Huzaifa-io&theme=react&hide_border=true)  
 
 📈 **Progress & Contributions**  
-![GitHub Progress Bar](https://github-readme-stats.vercel.app/api?username=Huzaifa-io&show_icons=true&theme=react&hide_border=true)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Huzaifa-io&show_icons=true&theme=react&hide_border=true)  
 
 📊 **Top Languages Used**  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Huzaifa-io&layout=compact&theme=react&hide_border=true)  
+
+📌 **Contribution Graph**  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Huzaifa-io&theme=react-dark&hide_border=true)  
 
 ---
 
