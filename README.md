@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey there! I'm Muhammad Huzaifa</h1>
-<h3 align="center">🚀 Passionate Web Developer | Frontend & Backend Developer</h3>
+<h3 align="center">🚀 Passionate Web Developer | Full Stack Developer</h3>
 
 ---
 
