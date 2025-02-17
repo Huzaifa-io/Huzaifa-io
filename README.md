@@ -80,7 +80,7 @@ I'm constantly expanding my **full-stack development** skills, focusing on **per
 [![Huzaifa](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Huzaifa-io&theme=nord_bright)](https://github.com/Huzaifa-io)
 
 ![GitHub Followers](https://img.shields.io/github/followers/Huzaifa-io?color=blue&style=for-the-badge&logo=github)
-![GitHub Stars](https://img.shields.io/github/stars/Huzaifa-io?color=yellow&style=for-the-badge&logo=github)
+![GitHub Stars](https://img.shields.io/github/stars/Huzaifa-io?color=blue&style=for-the-badge&logo=github)
 
 
 
