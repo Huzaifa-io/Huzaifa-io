@@ -77,6 +77,14 @@ I'm constantly expanding my **full-stack development** skills, focusing on **per
 📌 **Contribution Graph**  
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Huzaifa-io&theme=react-dark&hide_border=true)  
 
+[![Huzaifa](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Huzaifa-io&theme=nord_bright)](https://github.com/Huzaifa-io)
+
+![GitHub Followers](https://img.shields.io/github/followers/Huzaifa-io?color=blue&style=for-the-badge&logo=github)
+![GitHub Stars](https://img.shields.io/github/stars/Huzaifa-io?color=yellow&style=for-the-badge&logo=github)
+
+
+
+
 ---
 
 ## 📫 Get in Touch  
