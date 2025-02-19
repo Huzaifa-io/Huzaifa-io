@@ -66,7 +66,7 @@ I'm constantly expanding my **full-stack development** skills, focusing on **per
 ## 📊 GitHub Stats & Activity  
 
 🔥 **Current Streak**  
-![GitHub Streak](https://streak-stats.demolab.com/?user=innosufiyan&theme=react&hide_border=true)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=Huzaifa-io&theme=react&hide_border=true)  
 
 📈 **Progress & Contributions**  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Huzaifa-io&show_icons=true&theme=react&hide_border=true)  
