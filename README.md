@@ -28,7 +28,7 @@
 ## 🛠️ Tech Stack  
 
 ### 🚀 Frontend Development  
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -38,7 +38,7 @@
 </p>
 
 ### 🔥 Backend Development  
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/REST%20API-FF6F00?style=for-the-badge&logo=fastapi&logoColor=white" />
@@ -47,14 +47,14 @@
 </p>
 
 ### 📡 Databases & Cloud Services  
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
 
 ### 🛠️ Tools & Dev Workflow  
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
@@ -65,26 +65,26 @@
 
 ## 🔥 GitHub Stats  
 
-<p align="center">
+<p>
   <img src="https://streak-stats.demolab.com/?user=Huzaifa-io&theme=react&hide_border=true" />
 </p>
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=Huzaifa-io&show_icons=true&theme=react&hide_border=true" />
 </p>
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huzaifa-io&layout=compact&theme=react&hide_border=true" />
 </p>
 
-<p align="center">
+<p>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Huzaifa-io&theme=react-dark&hide_border=true" />
 </p>
 
 ---
 
 ## 📢 Let's Connect!  
-<p align="center">
+<p>
   <a href="mailto:2008huzaifakhi@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
