@@ -6,7 +6,6 @@
 </p>
 
 ---
-
 ## 🚀 About Me
 🔹 I love creating **dynamic and interactive web applications** that provide a seamless **user experience**.  
 🔹 My expertise lies in **frontend and backend development**, focusing on **scalability and performance optimization**.  
