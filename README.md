@@ -17,11 +17,6 @@
 💡 **Scalable Web Applications**  
 💡 **Open Source Contributions**  
 
-### 🎯 Currently Learning
-- Performance optimization techniques  
-- Advanced **Next.js** & **React Server Components**  
-- DevOps & CI/CD pipelines  
-
 ---
 
 ## 🛠️ Tech Stack  
