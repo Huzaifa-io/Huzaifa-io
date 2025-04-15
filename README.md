@@ -91,9 +91,6 @@
    <a href="https://www.upwork.com/freelancers/~0199bc7f086a7f293f">
     <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" />
   </a>
-  <a href="https://www.fiverr.com/huzaifa_devz">
-    <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" />
-  </a>
   <a href="https://www.freelancer.com/u/HuzaifaDevz">
     <img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=freelancer&logoColor=white" />
   </a>
