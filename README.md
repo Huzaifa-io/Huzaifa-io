@@ -85,7 +85,7 @@
   <a href="https://github.com/Huzaifa-io">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://huzaifa-devhub.vercel.app">
+  <a href="https://huzaifa-dev.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
    <a href="https://www.upwork.com/freelancers/~0199bc7f086a7f293f">
