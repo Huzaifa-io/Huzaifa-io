@@ -88,7 +88,7 @@
   <a href="https://huzaifa-dev.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-   <a href="https://www.upwork.com/freelancers/~0199bc7f086a7f293f">
+   <a href="https://www.upwork.com/freelancers/~012c70050c2d61f6d5">
     <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" />
   </a>
   <a href="https://www.freelancer.com/u/HuzaifaDevz">
