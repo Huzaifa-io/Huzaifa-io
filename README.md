@@ -57,19 +57,19 @@
 ## 🔥 GitHub Stats  
 
 <p>
-  <img src="https://streak-stats.demolab.com/?user=Huzaifa-io&theme=react&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=Huzaifa-io&theme=react&count_private=true&hide_border=true" />
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Huzaifa-io&show_icons=true&theme=react&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=Huzaifa-io&show_icons=true&count_private=true&theme=react&hide_border=true" />
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huzaifa-io&layout=compact&theme=react&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huzaifa-io&layout=compact&count_private=true&theme=react&hide_border=true" />
 </p>
 
 <p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Huzaifa-io&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Huzaifa-io&count_private=true&theme=react-dark&hide_border=true" />
 </p>
 
 ---
