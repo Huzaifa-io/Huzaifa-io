@@ -95,7 +95,7 @@
     <img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=freelancer&logoColor=white" />
   </a>
   <a href="https://x.com/HuzaifaDevz">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" />
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white" />
  </a>
 </p>
 
