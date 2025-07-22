@@ -61,7 +61,7 @@
 </p>
 
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=Huzaifa-io&show_icons=true&count_private=true&theme=react&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=Huzaifa-io&include_all_commits=true&show_icons=true&count_private=true&theme=react&hide_border=true" />
 </p>
 
 <p>
