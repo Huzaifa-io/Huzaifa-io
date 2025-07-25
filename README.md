@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey there! I'm <span style="color:#61dafb">Muhammad Huzaifa</span></h1>
-<h3 align="center">🚀 Full Stack MERN Developer | React.js | Node.js | MongoDB </h3>
+<h3 align="center">🚀 Full Stack Developer | React.js | Node.js | MongoDB </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=MERN+Stack+Web+Developer;React+%7C+Node.js+%7C+MongoDB;Building+Scalable+Web+Apps;Transforming+Ideas+Into+Reality" alt="Typing SVG" />
@@ -9,7 +9,7 @@
 
 ## 📌 Who Am I?
 
-I’m **Muhammad Huzaifa**, a passionate **Full Stack Web Developer** specializing in the **MERN Stack** (MongoDB, Express.js, React.js, Node.js). I craft modern, performant, and scalable web applications tailored to users and business goals.
+I’m **Muhammad Huzaifa**, a passionate **Full Stack Developer** specializing in the **MERN Stack** (MongoDB, Express.js, React.js, Node.js). I craft modern, performant, and scalable web applications tailored to users and business goals.
 
 With a deep interest in **UI/UX design**, performance optimization, and clean architecture, I love building dynamic projects — from responsive e-commerce sites to interactive dashboards.
 
