@@ -95,7 +95,7 @@ With a deep interest in **UI/UX design**, performance optimization, and clean ar
   <a href="mailto:huzaifa.pro.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/muhammad-huzaifa-902556373/">
+  <a href="https://www.linkedin.com/in/muhammad~huzaifa/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/Huzaifa-io">
