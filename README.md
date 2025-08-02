@@ -62,7 +62,7 @@ With a deep interest in **UI/UX design**, performance optimization, and clean ar
 
 ## 💼 Featured Projects
 
-🔹 [**LovelySteps.shop**](https://www.lovelysteps.shop) – E-commerce platform with dynamic shoe listings and mobile-friendly UI  
+🔹 [**Lovely Steps**](https://www.lovelysteps.shop) – E-commerce platform with dynamic shoe listings and mobile-friendly UI  
 🔹 [**Quiz App**](https://quiz.afaq.dev) – MERN-based quiz platform with timer, scoring, and leaderboard  
 🔹 [**Academic Scheduler**](https://www.academic-scheduler.com/) – Schedule manager for schools using React + MongoDB + Ant Design  
 🔹 [**Portfolio Website**](https://huzaifa-dev.vercel.app) – My personal developer portfolio powered by React + Tailwind
