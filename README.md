@@ -104,8 +104,8 @@ With a deep interest in **UI/UX design**, performance optimization, and clean ar
   <a href="https://huzaifa-dev.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://www.upwork.com/freelancers/~012c70050c2d61f6d5">
-    <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" />
+  <a href="https://linktr.ee/muhammad.huzaifa">
+  <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" />
   </a>
   <a href="https://www.freelancer.com/u/HuzaifaDevz">
     <img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=freelancer&logoColor=white" alt="Freelancer" />
