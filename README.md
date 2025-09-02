@@ -101,9 +101,9 @@ With a deep interest in **UI/UX design**, performance optimization, and clean ar
   <a href="https://github.com/Huzaifa-io">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://huzaifa-dev.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
+ <a href="https://www.muhammad-huzaifa.me/">
+  <img src="https://img.shields.io/badge/Portfolio-563D7C?style=for-the-badge&logo=pinboard&logoColor=white" alt="Portfolio" />
+</a>
   <a href="https://linktr.ee/muhammad.huzaifa">
   <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" />
   </a>
