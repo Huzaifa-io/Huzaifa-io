@@ -77,6 +77,8 @@ With a deep interest in **UI/UX design**, performance optimization, and clean ar
 I occasionally write about web development, JavaScript, React, and my learning journey.
 
 - Medium: **[muhammad-huzaifa.medium.com](https://muhammad-huzaifa.medium.com/)**
+- Dev Coummunity: **[dev.to/muhammad-huzaifa](https://dev.to/muhammad-huzaifa)**
+- Hashnode: **[hashnode.com/@Muhammad-Huzaifa](https://hashnode.com/@Muhammad-Huzaifa)**
 
 Check out my latest posts and stories there.
 
