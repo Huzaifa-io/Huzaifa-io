@@ -21,7 +21,7 @@ With a deep interest in **UI/UX design**, performance optimization, and clean ar
 💡 **Backend**: Node.js, Express, Firebase, REST APIs, Authentication (JWT)  
 💡 **Databases**: MongoDB, Firebase Firestore  
 💡 **DevOps & Tools**: GitHub, Postman, Vercel, VS Code  
-💡 **Other Interests**: UI/UX Design, SEO Optimization, Open Source Contributions
+💡 **Other Interests**: UI/UX Design, SEO Optimization, Open Source Contributions  
 
 ---
 
@@ -65,7 +65,20 @@ With a deep interest in **UI/UX design**, performance optimization, and clean ar
 🔹 [**Lovely Steps**](https://www.lovelysteps.shop) – E-commerce platform with dynamic shoe listings and mobile-friendly UI  
 🔹 [**Quiz App**](https://quiz.afaq.dev) – MERN-based quiz platform with timer, scoring, and leaderboard  
 🔹 [**Academic Scheduler**](https://www.academic-scheduler.com/) – Schedule manager for schools using React + MongoDB + Ant Design  
-🔹 [**Portfolio Website**](https://www.muhammad-huzaifa.me/) – My personal developer portfolio powered by React + Tailwind
+🔹 [**Portfolio Website**](https://www.muhammad-huzaifa.me/) – My personal developer portfolio powered by React + Tailwind  
+
+👉 Explore more of my work on my portfolio:  
+**[www.muhammad-huzaifa.me](https://www.muhammad-huzaifa.me/)**
+
+---
+
+## 📝 Blog & Articles
+
+I occasionally write about web development, JavaScript, React, and my learning journey.
+
+- Medium: **[muhammad-huzaifa.medium.com](https://muhammad-huzaifa.medium.com/)**
+
+Check out my latest posts and stories there.
 
 ---
 
@@ -101,11 +114,14 @@ With a deep interest in **UI/UX design**, performance optimization, and clean ar
   <a href="https://github.com/Huzaifa-io">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
- <a href="https://www.muhammad-huzaifa.me/">
-  <img src="https://img.shields.io/badge/Portfolio-563D7C?style=for-the-badge&logo=pinboard&logoColor=white" alt="Portfolio" />
-</a>
+  <a href="https://www.muhammad-huzaifa.me/">
+    <img src="https://img.shields.io/badge/Portfolio-563D7C?style=for-the-badge&logo=pinboard&logoColor=white" alt="Portfolio" />
+  </a>
   <a href="https://linktr.ee/muhammad.huzaifa">
-  <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" />
+    <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" />
+  </a>
+  <a href="https://muhammad-huzaifa.medium.com/">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
   </a>
   <a href="https://www.freelancer.com/u/HuzaifaDevz">
     <img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=freelancer&logoColor=white" alt="Freelancer" />
