@@ -66,6 +66,7 @@ With a deep interest in **UI/UX design**, performance optimization, and clean ar
 🔹 [**Quiz App**](https://quiz.afaq.dev) – MERN-based quiz platform with timer, scoring, and leaderboard  
 🔹 [**Academic Scheduler**](https://www.academic-scheduler.com/) – Schedule manager for schools using React + MongoDB + Ant Design  
 🔹 [**Portfolio Website**](https://www.muhammad-huzaifa.me/) – My personal developer portfolio powered by React + Tailwind  
+🔹 [**Win Gadget**](https://www.wingadget.store/) – Find the Perfect Gadgets That Improve Your Life
 
 👉 Explore more of my work on my portfolio:  
 **[www.muhammad-huzaifa.me](https://www.muhammad-huzaifa.me/)**
