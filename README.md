@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey there! I'm <span style="color:#61dafb">Muhammad Huzaifa</span></h1>
-<h3 align="center">🚀 Full Stack Developer | React.js | Node.js | MongoDB </h3>
+<h3 align="center">🚀 Full Stack Developer | React.js | Next.js | Node.js | MongoDB | JavaScript | SEO-Friendly Web Apps</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=MERN+Stack+Web+Developer;React+%7C+Node.js+%7C+MongoDB;Building+Scalable+Web+Apps;Transforming+Ideas+Into+Reality" alt="Typing SVG" />
