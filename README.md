@@ -17,7 +17,7 @@ With a deep interest in **UI/UX design**, performance optimization, and clean ar
 
 ## 🌟 Key Skills & Interests
 
-💡 **Frontend Development**: React, Tailwind CSS, Bootstrap, Responsive UI  
+💡 **Frontend Development**: React, Next.js, SEO, Tailwind CSS, Bootstrap, Responsive UI  
 💡 **Backend**: Node.js, Express, Firebase, REST APIs, Authentication (JWT)  
 💡 **Databases**: MongoDB, Firebase Firestore  
 💡 **DevOps & Tools**: GitHub, Postman, Vercel, VS Code  
